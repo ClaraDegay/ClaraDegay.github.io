@@ -1,0 +1,78 @@
+
+@font-face {
+	font-family: "William";
+	font-weight: normal;
+	src: url('../font/William_Text_Pro_Reg.otf');
+}
+
+@font-face {
+	font-family: "William_Ita";
+	font-weight: normal;
+	src: url('../font/William_Text_Pro_Reg_Ita.otf');
+}
+
+
+em, i{
+	font-family: "William_Ita";
+}
+
+body{
+
+    font-family: "William", serif; 
+    width: 53%;
+    margin: 100px auto 100px;
+	color: #222222;
+	font-size: 20px;
+	line-height: 32px;
+}
+
+h1 {
+	font-weight: normal;
+	font-family: "William", serif; 
+	font-size: 40px;
+	font-variant: small-caps;
+}
+
+
+.citation {
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	width: 90%;
+	margin-left: 50px;
+}
+
+.appnote{
+	color: #222222;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+.avantpropos{
+	font-size: 15px;
+	line-height: 22px;
+}
+
+sup{
+	line-height: 0px;
+	vertical-align: 7px;
+	margin-left: -3px;
+}
+
+
+.footnote{
+    font-size: 15px; 
+    line-height: 24px;
+
+}
+
+.colonne{
+	float: left;
+	width: 200px;
+	font-size: 15px;
+	font-family: "William", serif;
+}
+
+
+
+
+

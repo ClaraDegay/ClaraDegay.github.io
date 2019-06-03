@@ -1,0 +1,1 @@
+pandoc -s labouffeeemotionnelle.md -c styles/styles.css -o index.html
