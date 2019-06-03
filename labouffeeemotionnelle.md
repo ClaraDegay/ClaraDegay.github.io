@@ -15,6 +15,8 @@ La nécessité prend bien des formes, et aussi difficile soit-elle à appréhend
 
 <h1><center>la bouffée émotionnelle</center></h1>
 
+<br/> <br/>
+
 <div class="avantpropos"> 
 Je n’ai pu encore définir avec exactitude ce sensible qu’il m’est donné de vivre lors de mes lectures, au cours desquelles j’éprouve une faim insatiable, un réel état de manque, avec un besoin irrépressible de se réaliser. Dans l’« invisible nulle-part de l’esprit » <a class="appnote"> <sup>3 </sup> </a> je réunis simultanément mes lectures à l’image de mon appétit grandissant. Mon corps physique est en apesanteur, je me retrouve dans ce lieu que je nommerai le domaine des rêves de ma conscience éveillée, un intermonde invisible établi.
 Il me semble important de préciser que l’écriture de ce texte se fait du point de vue d’une étudiante en design graphique.
