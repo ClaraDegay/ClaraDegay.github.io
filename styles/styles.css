@@ -45,14 +45,17 @@ h1 {
 	font-family: "William", serif; 
 	font-size: 35px;
 	font-variant: small-caps;
+	line-height: 20px;
 }
 
+/*
 h1 sup {
 	font-variant: normal;
 	font-size: 11px;
 	vertical-align: 0px;
-	margin-right: 30px;
-}
+
+}*/
+
 
 
 .citation {

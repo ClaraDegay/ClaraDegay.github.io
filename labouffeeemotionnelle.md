@@ -16,7 +16,8 @@ La nécessité prend bien des formes, et aussi difficile soit-elle à appréhend
 <br/>
 
 
-<h1><center><sup>L'expérience de</sup>la bouffée émotionnelle </center></h1>
+<h1><center>
+la bouffée émotionnelle </center></h1>
 <br/>
 
 
