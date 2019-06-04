@@ -127,7 +127,7 @@ width: 67%;
 	p, h1, .citation {
 	width: calc(70%-50px);
 	margin: 0 30px 32px auto;
-	width: 50%;
+	width: 60%;
 
 }
 
@@ -164,6 +164,7 @@ h1{
 .citation{
 	padding-left: 20px;
 	padding-right: 20px;
+	line-height: 14px;
 }
 
 	/*etc pour chaque différence de texte.*/
