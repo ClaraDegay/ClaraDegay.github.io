@@ -126,8 +126,8 @@ width: 67%;
 	
 	p, h1, .citation {
 	width: calc(70%-50px);
-	margin: 0 40px 32px auto;
-	width: 55%;
+	margin: 0 30px 32px auto;
+	width: 50%;
 
 }
 
@@ -142,13 +142,13 @@ width: 67%;
 }
 
 body{
-	font-size: 12px;
-	line-height: 16px;
+	font-size: 11px;
+	line-height: 15px;
 }
 
 h1{
    font-size: 22px;
-   line-height: 27px;
+   line-height: 25px;
 
 }
 
