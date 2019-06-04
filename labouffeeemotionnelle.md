@@ -78,15 +78,17 @@ La *bouffée* et la *citation* sont une survenance imminente, toutes deux dans u
 <span>8.</span>  Ibid, 1. 11. Le travail de la citation.
 </div>
 
+
 <div class="citation">
 Je travaille la citation comme une matière qui m’habite.<sup> <a class="appnote"> 8 </a> </sup>
 </div>
 
-<div class="colonne">
-<span>9.</span> Ibid.
-</div>
 
 Du point de vue de mon expérience sensible, la *bouffée émotionnelle* est à l’image du travail de la citation : « c’est la puissance en acte » <sup> <a class="appnote"> 9 </a> </sup>. Elle survient à la lecture, puis à la re-lecture.
+
+<div class="colonne"> <span>9.</span> Ibid.
+</div>
+
 En prenant cet exemple, je me questionne sur la transition matérielle qui s’effectue entre une expérience de lecture et une expérience d’écriture.Je poursuis ma lecture d’*Ouroboros,* et je découvre le processus de travail de Calaferte. Il retranscrit son cri, « au plus près de la poésie », puis (en comparant sa démarche à celle d’un musicien) il travaille ce matériau brut (le cri) jusqu’à arriver à l’établissement d’un langage :
 
 <div class="colonne">
