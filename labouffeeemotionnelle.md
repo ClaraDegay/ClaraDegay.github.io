@@ -16,7 +16,7 @@ La nécessité prend bien des formes, et aussi difficile soit-elle à appréhend
 <br/>
 
 
-<h1><center><sup>L'expérience de </sup>la bouffée émotionnelle </center></h1>
+<h1><center><sup>L'expérience de</sup>la bouffée émotionnelle </center></h1>
 <br/>
 
 
@@ -140,5 +140,24 @@ entre il y a d’innombrables et irrégulières inspirations et expirations.(À 
 Qu’en est-il de mon engagement ? Lectrice, je ne le suis pas seulement, puisque je suis aussi designer graphique. Je le sais maintenant ma proximité avec l’auteur.e et son texte n’est pas seulement psychique. Mon travail est lié au sien, non pas dans mon expérience de lecture mais dans mon expérience de composition. Nous avons tout.e deux un engagement envers le texte. L’un.e à un état de fait de la langue, l’autre au corps même de cette langue. (Et) quand enfin le livre est rendu à son autonomie, l’engagement perdure. La position d’intermédiaire que j’occupe, entre artiste, écrivain/écrivaine et lecteur, lectrice, 
 
 Il y a dans l’acte de lire un phénomène si évident que nous n’avons d’autre choix que de consentir. Lire c’est naître encore, être face à la vie, et vivre. S’engager envers un texte c’est ce que Henri Michaux appelle le consentement. « Respirer c’est être consentant. ».
+
+<br/>
+
+<div class="colonne">
+Texte de fin d'étude, dans le cadre du DNA design graphique à l'Ensba Lyon.  
+<br/>
+Dernière version le mardi 4 juin 2019.
+
+Typographies : *William* par Maria Doreuli
+<br/> 
+*Atlas Grotesk* &#169; Commercial type
+
+Corrections : Camille Pageard
+<br/>
+Texte et webdesign : Clara Degay
+
+</div>
+
+<br/>
 
 
