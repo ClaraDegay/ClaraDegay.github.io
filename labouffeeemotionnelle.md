@@ -15,14 +15,13 @@ La nécessité prend bien des formes, et aussi difficile soit-elle à appréhend
 
 <br/>
 
-![''](image/cri.jpg "Alechinsky")
 
-<h1><center>la bouffée émotionnelle </center></h1>
+<h1><center><sup>L'expérience de </sup>la bouffée émotionnelle </center></h1>
 <br/>
 
 
 <div class="colonne">
-<span>3.</span> Lisa Robertson, *Persistance : Réage, Lucrèce, Arendt,* publié  par <o> future <o>, 18 Juin 2015, traduit par Camille Pageard. Initialement publié : Lisa Robertson, « Lastingness : Réage, Lucrèce, Arendt », Nilling, Toronto, 2012.
+<span>3.</span> Lisa Robertson, *Persistance : Réage, Lucrèce, Arendt,* publié  par &lt;o&gt; future &lt;o&gt;, 18 Juin 2015, traduit par Camille Pageard. Initialement publié : Lisa Robertson, « Lastingness : Réage, Lucrèce, Arendt », Nilling, Toronto, 2012.
 </div>
 
 <div class="avantpropos"> 
@@ -45,7 +44,7 @@ Ainsi de manière arbitraire, j’inscris le mot « Ouroboros » dans la base de
 <div class="colonne">
 <span>4.</span> Monique Wittig, *Le chantier littéraire,* en coédition : les Presses universitaires de Lyon & Éditions iXe, 2010, p. 112.
 
-<span>5.</span> Lisa Robertson, *Persistance : Réage, Lucrèce, Arendt,* publié  par <o> future <o>, 18 Juin 2015, traduit par Camille Pageard. Initialement publié : Lisa Robertson, « Lastingness : Réage, Lucrèce, Arendt », Nilling, Toronto, 2012.
+<span>5.</span> Lisa Robertson, *Persistance : Réage, Lucrèce, Arendt,* publié  par &lt;o&gt; future &lt;o&gt;, 18 Juin 2015, traduit par Camille Pageard. Initialement publié : Lisa Robertson, « Lastingness : Réage, Lucrèce, Arendt », Nilling, Toronto, 2012.
 
 </div>
 
@@ -56,11 +55,11 @@ Ainsi de manière arbitraire, j’inscris le mot « Ouroboros » dans la base de
 <div class="colonne">
 <span>6.</span> Sources des définitions, Centre National de Ressources Textuelles et Lexicales (CNRTL).
 
-<span>*</span> Je décide d’observer les répercussions corporelles produites par une bouffée et son caractère discontinu.
+<span>&#9679;</span> Je décide d’observer les répercussions corporelles produites par une bouffée et son caractère discontinu.
 
 </div>
 
-Je m’engage dans une deuxième lecture. Ordonnée de façon singulière, la composition textuelle semble se jouer des règles en vigueur. Je lis de nouveau « {...} n’est lisible {...} que par bouffées, bouffées émotionnelles. ». J’opère un rapprochement entre deux processus : un protocole de lecture qui se doit d’être fragmenté, selon Calaferte, puis un protocole de collecte textuelle, que j’associe directement à mon travail de metteuse en page. Au sens propre la bouffée se définit ainsi : c’est un souffle aspiré ou expiré par la bouche, à intervalles irréguliers. Employée de manière plus spécifique, la bouffée peut exprimer une sensation de chaleur qui envahit le corps et monte au visage. Au sens figuré, dans le domaine du comportement humain, la bouffée est une manifestation soudaine et passagère d’un sentiment.<sup> <a class="appnote">6 </a> </sup> Je mets en lien le terme de « bouffée » avec le travail de la citation.<sup> <a class="appnote"> * </a> </sup> 
+Je m’engage dans une deuxième lecture. Ordonnée de façon singulière, la composition textuelle semble se jouer des règles en vigueur. Je lis de nouveau « {...} n’est lisible {...} que par bouffées, bouffées émotionnelles. ». J’opère un rapprochement entre deux processus : un protocole de lecture qui se doit d’être fragmenté, selon Calaferte, puis un protocole de collecte textuelle, que j’associe directement à mon travail de metteuse en page. Au sens propre la bouffée se définit ainsi : c’est un souffle aspiré ou expiré par la bouche, à intervalles irréguliers. Employée de manière plus spécifique, la bouffée peut exprimer une sensation de chaleur qui envahit le corps et monte au visage. Au sens figuré, dans le domaine du comportement humain, la bouffée est une manifestation soudaine et passagère d’un sentiment.<sup> <a class="appnote">6 </a> </sup> Je mets en lien le terme de « bouffée » avec le travail de la citation. &#9679;
 
 Lorsque je lis Ouroboros, mon corps charnel est suspendu, mon moi intérieur prend place. (Une nuit je fais ce rêve : *un premier corps allongé, presque endormi, peut-être mort. Un autre corps identique, mais ce n’est pas le même.* Ces deux corps que je regarde sont les miens : physique et psychique.). Dans ce lieu spirituel je retrouve, inéluctablement, les hommes et les femmes rencontrés dans mes lectures antérieures. Je vois leurs mots lus, je m’arrête puis les regarde. Je sens une connexion, électrique, s’établir entre les mots de Calaferte et ceux des autres. J’éprouve un fort sentiment de gratitude intérieure en regard à l’abolition d’une solitude chronique. À l’inverse, la bouffée envahissante est répétitive. Je choisis un autre texte à lire et l’expérience se renouvelle. Je me sens reconnaissante, et honorée de sentir à chaque livre parcouru, chaque texte lu, la force de la présence d’autrui. Je me dois de comprendre ces liaisons pour enfin perpétuer leurs échos. Je parle d’engagement hérité. Dans *L’Entretien Inﬁni,* Maurice Blanchot dit « Ce qu’il importe ce n’est pas de dire, c’est de redire et, dans cette redite, de dire chaque fois encore une première fois. ». Ce que Blanchot exprime ici c’est ce qu’Antoine Compagnon définit par le travail de la citation, dans son livre *La seconde main, ou le travail de la citation :*  
 
