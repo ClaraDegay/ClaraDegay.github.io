@@ -56,6 +56,10 @@ h1 sup {
 
 }*/
 
+.paragraphe{
+	font-size: 20px;
+	text-align: center;
+}
 
 
 .citation {
@@ -87,8 +91,16 @@ sup{
 	line-height: 0px;
 	/*vertical-align: 5px;*/
 	margin-left: -3px;
-	margin-right: 2px;
+	margin-right: -2px;
 }
+
+.appnote sup{
+	line-height: 0px;
+	/*vertical-align: 5px;*/
+	margin-left: -2px;
+	margin-right: 1px;
+}
+
 
 
 .colonne{
@@ -124,7 +136,7 @@ width: 67%;
 
 @media screen and (max-width: 767px){
 	
-	p, h1, .citation {
+	p, h1, .citation, .paragraphe {
 	width: calc(70%-50px);
 	margin: 0 30px 32px auto;
 	width: 60%;
@@ -144,6 +156,10 @@ width: 67%;
 body{
 	font-size: 11px;
 	line-height: 15px;
+}
+
+.paragraphe{
+	font-size: 11px;
 }
 
 h1{
