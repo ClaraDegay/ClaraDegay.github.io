@@ -61,6 +61,10 @@ h1 sup {
 	text-align: center;
 }
 
+.saut{
+	height: 20px;
+}
+
 
 .citation {
     font-family: "AtlasGrotesk", sans-serif;
@@ -141,6 +145,10 @@ width: 67%;
 	margin: 0 30px 32px auto;
 	width: 60%;
 
+}
+
+.saut{
+	height: 5px;
 }
 
 .avantpropos{
