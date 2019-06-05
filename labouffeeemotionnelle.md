@@ -33,7 +33,6 @@ Je n’ai pu encore définir avec exactitude ce sensible qu’il m’est donné 
 
 <div class="paragraphe"> &#42; &#42; &#42; </div>
 
-</br>
 
 J'ignore à quel moment le terme d’« Ouroboros » m’est venu à l’esprit, mais aussi et surtout quand est-ce qu’il est venu définir un processus et devenir omniprésent dans mon langage. J’observe dans de récents écrits une transformation syntaxique, où le préfixe *re-* réside avant chacun de mes mots. Il semble être d’une évidence primordiale, dans un protocole bien engagé. J’examine plus encore et remarque, outre une modification grammaticale, que l’ensemble de mes textes n’est en soi qu’une somme de préfaces. Une annonce perpetuelle d'un *après* inconnu. Lors d’une présentation de mes travaux je définis mon installation sous le nom de « paroles rapportées » et pour l’introduire j’écris : 
 
