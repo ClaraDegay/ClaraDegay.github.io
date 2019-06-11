@@ -108,11 +108,12 @@ Je ressens l’extase de Calaferte se révéler dans mon esprit. Alors que reste
 
 « {...} les mots sont un objet de transport pour le corps » <sup> <a class="appnote"> 10 </a> </sup>. Cet extrait a deux versants. Le premier concerne le procédé de langage utilisé dans ce passage, le deuxième l’effet de ce procédé.
 
-<div class="colonne">
-<span>11.</span> Nathalie Sarraute, *Entre la vie et la mort,* Œuvres Complètes, Gallimard, 1996, p. 728.
-</div>
 
 <div class="citation"> « On dirait qu’ici des mots éparpillés en désordre la brouillent. Il faut les déplacer…qu’ils restent emprisonnés dans des contours d’une parfaite netteté. » <sup> <a class="appnote"> 11 </a> </sup> et libérés quand enfin ils sont rendus à leur autonomie.
+</div>
+
+<div class="colonne">
+<span>11.</span> Nathalie Sarraute, *Entre la vie et la mort,* Œuvres Complètes, Gallimard, 1996, p. 728.
 </div>
 
 Métaphore et personnification sont des guides à travers le signifié/signifiant (équivalent au rapport fond/forme). L’utilisation de ces figures de style permet de rendre la « magie » palpable. Car ce qu’il se passe lorsque les mots, bruts, ricochent dans l’espace psychique, je ne peux l’expliquer, mais il y a bien des rebonds. L’écriture serait le nœud entre magie et rationnel. L’écrivaine Monique Wittig parle du mot en disant qu’« il touche l’œil », et liste différents verbes (« toucher, frapper, choquer, fracasser, empoisonner, {...} »), démontrant que ce vers quoi l’action des verbes renvoie peut aussi bien être lu, qu’être imaginé par l’esprit, elle « se réverbère à la fois sur la page et derrière l’œil dans le cerveau et ses agents » <sup> <a class="appnote"> 12 </a> </sup>. Le mot dans ce qu’il dit, a donc déjà une puissance matérielle.
