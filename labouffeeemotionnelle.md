@@ -14,7 +14,7 @@ L’expérience intérieure, selon Georges Bataille <a class="appnote"> <sup>1</
 
 
 <h1><center>
-la bouffée émotionnelle </center></h1>
+L'expérience de la bouffée émotionnelle </center></h1>
 
 <div class="saut">  <br/> </div>
 
@@ -86,7 +86,7 @@ Je travaille la citation comme une matière qui m’habite<sup> <a class="appnot
 </div>
 
 
-Du point de vue de mon expérience sensible, la *bouffée émotionnelle* est à l’image du travail de la citation : « c’est la puissance en acte » <sup> <a class="appnote"> 8 </a> </sup>. Elle survient à la lecture, puis à la re-lecture.
+Du point de vue de mon expérience sensible, la *bouffée émotionnelle* est à l’image du *travail de la citation :* « c’est la puissance en acte » <sup> <a class="appnote"> 8 </a> </sup>. Elle survient à la lecture, puis à la re-lecture.
 
 <div class="colonne"> <span>8.</span> Ibid.
 </div>
@@ -140,13 +140,45 @@ entre il y a d’innombrables et irrégulières inspirations et expirations.À m
 <span>14.</span> Monique Wittig, *Le chantier littéraire,* en coédition : les Presses universitaires de Lyon & Éditions iXe, 2010, p. 112.
 </div>
 
-« {...} les mots sont un objet de transport pour le corps » <sup> <a class="appnote"> 14 </a> </sup>. Je crois pouvoir dire que Monique Wittig nous parle ici d’un acte transitoire c’est-à-dire un processus de matérialisation du langage inscrit dans un espace et un temps. Je préciserai qu’il s’agit d’un acte mimétique transitoire. En effet dans une expérience de lecture, un lecteur imite l’état extatique de l’auteur, à travers ses mots, par un phénomène de *réception impliquée.* Pourquoi réitérer le terme de *réception impliquée* ? En reprenant l’exemple de Georges Molinié, je me retrouve telle la jeune fille lectrice de Marivaux, cependant appliqué à ma propre expérience. Je ne vais pas me reconnaître directement, mais il y a très souvent un fragment textuel particulier qui vient entrer en résonnance parfaite avec une de mes rencontres littéraires antérieure. Étape après étape, la relation étroite auteur(e)/lecteur/lectrice se ressert. La *réception impliquée* est alors synonyme de co-création. Cela sous entend que l’auteur prend en considération le lecteur, qu’il s’intéresse aux multiples vies de son œuvre tant à son sujet qu’à son objet. Aussi, est inclus une sorte de renoncement à la paternité/maternité, à l’acceptation du libre devenir de sa parole. L’écrivain(e) et le lecteur/lectrice partagent alors le même souffle, une bouffée commune, le temps d’une lecture. Le corps dont il est question c’est le corps social, le corps de tous, le mien, hâbité par celui des autres, qui, par les mots, résiste.
+« {...} les mots sont un objet de transport pour le corps » <sup> <a class="appnote"> 14 </a> </sup>. Je crois pouvoir dire que Monique Wittig nous parle ici d’un acte transitoire c’est-à-dire un processus de matérialisation du langage inscrit dans un espace et un temps. Je préciserai qu’il s’agit d’un acte mimétique transitoire. En effet, dans une expérience de lecture, un lecteur imite l’état extatique de l’auteur, à travers ses mots, par un phénomène de *réception impliquée.* Pourquoi réitérer le terme de *réception impliquée* ? En reprenant l’exemple de Georges Molinié, je me retrouve telle la jeune fille lectrice de Marivaux, cependant appliqué à ma propre expérience. Je ne vais pas me reconnaître directement, mais il y a très souvent un fragment textuel particulier qui vient entrer en résonnance parfaite avec une de mes rencontres littéraires antérieure. Étape après étape, la relation étroite auteur(e)/lecteur/lectrice se ressert. La *réception impliquée* est alors synonyme de co-création. Cela sous entend que l’auteur prend en considération le lecteur, qu’il s’intéresse aux multiples vies de son œuvre tant à son sujet qu’à son objet. Aussi, est inclus une sorte de renoncement à la paternité/maternité, à l’acceptation du libre devenir de sa parole. L’écrivain(e) et le lecteur/lectrice partagent alors le même souffle, une bouffée commune, le temps d’une lecture. Le corps dont il est question c’est le corps social, le corps de tous, le mien, hâbité par celui des autres, qui, par les mots, résiste.
  
 Qu’en est-il de mon engagement ? Lectrice, je ne le suis pas seulement, puisque je suis aussi designer graphique. Je le sais maintenant, ma proximité avec l’auteur(e) et son texte n’est pas seulement psychique. Mon travail est lié au sien, non pas dans mon expérience de lecture mais dans mon expérience de composition. Nous avons tout(e)s deux un engagement envers le texte. L’un(e)à un état de fait de la langue, l’autre au corps même de cette langue. (Et) Quand enfin le livre est rendu à son autonomie, l’engagement perdure. La position que j’occupe entre artiste, écrivain/écrivaine et lecteur, lectrice, est celle d'une intermediaire graphiste qui aménage divers espaces pour les mots pour qu'ils continuent leur expansion.
 
 Il y a dans l’acte de lire un phénomène si évident que nous n’avons d’autre choix que de consentir. Lire c’est naître encore, être face à la vie, et vivre. S’engager envers un texte c’est ce que Henri Michaux appelle le consentement. « Respirer c’est être consentant. ».
 
 <br/>
+
+
+<div class="biblio"> 
+Quelques lignes de bibliographie : revues, essais, romans, recueils...
+</div>
+
+<h3>
+— Georges Bataille, *L’Expérience intérieur,* Éditions Gallimard, 1943. <br>
+— Schultz Bruno, *Les Boutiques de cannelle,* L’étrangère, Gallimard, 1992.
+— Louis Calaferte, *Ouroboros,* Chant, Tarabuste, 1995.<br>
+— Antoine Compagnon, *La seconde main, ou le travail de la citation,* Éditions du Seuil, Paris, 1979.<br>
+— Emmanuel Levinas, *Totalité et Infini,* La Haye, 1961.
+« La caresse fait naître un entre-deux, un monde intermédiaire, où chacun, 
+à la fois touchant et touché, n’est plus exactement soi-même, sans être pour autant devenu autre. »<br>
+— Rainer Maria Rilke, *Lettres à un jeune poète,* Club des Jeunes, Amis du Livre, en accord avec les Éditions Bernard Grasset, Tours, 1956.
+« Entrez en vous-même, cherchez le besoin qui vous fait écrire : examinez s’il pousse ses racines au plus profond de votre cœur. Confessez-vous à vous même : mourriez-vous s’il vous était défendu d’écrire ? {...} Creusez en vous-même vers la plus profonde réponse. Si cette réponse est affirmative, si vous pouvez faire front à une aussi grave question par un fort et simple « Je dois », alors construisez votre vie selon cette nécessité. » <br>
+— Lisa Robertson, *Persistance: Réage, Lucrèce, Arendt,* publié par &lt;o&gt; future &lt;o&gt;, le 18 Juin 2015, traduit par Camille Pageard. Initialement publié sous : Lisa Robertson, « Lastingness: Réage, Lucrèce, Arendt », in Nilling, Toronto, 2012.<br>
+— Monique Wittig, *Le chantier littéraire,* coédité : les Presses universitaires de Lyon & Éditions iXe, 2010.<br>
+— Nathalie Sarraute, *Entre la vie et la mort,* Œuvres Complètes, Gallimard, 1996.<br>
+— F.R.DAVID, *Flurry,* uh books, édité par Will Holder, 2018.<br>
+—The Social Life of the Book, série de publications éditées par castillo/corrales et Will Holder, designées par Will Holder, publiées chez Paraguay Press, 
+dont le texte de Moyra Davey, *Le Sec et le Moite,* 2011,
+le texte d’Oscar Tuazon, *Faire des livres,* 2011,
+et d’après les écrits de Chris Kraus, *Die Toilette,* une lecture de Jon Bywater, Louise Menzies and Marnie Slater.<br>
+— Marguerite Duras, *Écrire,* Gallimard, 1993.<br>
+— Jean-Pierre Siméon, *Algues, sable, coquillages et crevettes : lettre d’un poète à des comédiens et quelques autres passeurs,* Cheyne, 1984.<br>
+— Pauline Oliveros, *Some Sound Observations* dans *Software for People, Collected Writings,* Smith Publications, 1963-1980.
+
+</h3>
+
+</br>
+</br>
 
 <div class="colonne">
 Texte de fin d'étude, dans le cadre du DNA design graphique à l'Ensba Lyon.  
@@ -163,16 +195,15 @@ Corrections : Camille Pageard
 <br/>
 Texte et webdesign : Clara Degay
 
-Relecture :
+Merci de vos lectures et re-lectures :
 <br/>
-Constance Burger-Leenhardt
-Charlotte Carletto
-Marie-Louise Fiorentini
-Nitcheva Fiorentini
+Constance Burger-Leenhardt<br>
+Charlotte Carletto<br>
+Marie-Louise Fiorentini<br>
+Nitcheva Fiorentini<br>
 
 
 </div>
 
-<br/>
 
 

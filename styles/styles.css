@@ -41,9 +41,10 @@ p, h1, .citation {
 
 h1 {
 	font-weight: normal; 
-	font-size: 35px;
-	font-variant: small-caps;
+	font-size: 20px;
+	/*font-variant: small-caps;*/
 	line-height: 20px;
+	font-family: "Founders", sans-serif;
 }
 
 /*
@@ -53,6 +54,12 @@ h1 sup {
 	vertical-align: 0px;
 
 }*/
+
+h3{
+	font-size: 14px;
+	line-height: 20px;
+
+}
 
 .paragraphe{
 	font-size: 20px;
@@ -68,7 +75,7 @@ h1 sup {
 .citation {
     font-family: "Founders", sans-serif;
 	font-weight: bold;
-	line-height: 25px;
+	line-height: 24px;
 	padding-left: 50px;
 	padding-right: 50px;
 
@@ -90,6 +97,13 @@ h1 sup {
 	font-size: 15px;
 	line-height: 22px;
 }
+
+.biblio{
+	font-size: 20px;
+	font-family: "Founders", sans-serif;
+
+}
+
 
 sup{
 	line-height: 0px;
@@ -173,7 +187,7 @@ body{
 
 h1{
    font-size: 22px;
-   line-height: 25px;
+   line-height: 23px;
 
 }
 
@@ -189,7 +203,7 @@ h1{
 .citation{
 	padding-left: 20px;
 	padding-right: 20px;
-	line-height: 13px;
+	line-height: 10px;
 }
 
 	/*etc pour chaque différence de texte.*/
